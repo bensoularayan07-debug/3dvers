@@ -1,0 +1,9 @@
+{
+  "name": "3Dvers",
+  "description": "Une solution de visioconférence simple et rapide.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
